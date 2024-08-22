@@ -1,0 +1,26 @@
+2024-08-08 14:59:52,272 [main] INFO Testcases.Registeration_Test - link clicking activity is completed
+2024-08-08 15:09:33,978 [main] INFO Testcases.Registeration_Test - link clicking activity is completed
+2024-08-09 12:00:24,995 [main] INFO Testcases.Registeration_Test - link clicking activity is completed
+2024-08-09 12:00:40,906 [main] INFO Testcases.Registeration_Test - Testcase is failed
+2024-08-09 12:00:40,908 [main] INFO Testcases.Registeration_Test - account created successfully
+2024-08-09 12:00:52,046 [main] INFO Testcases.LoginTest - login was succussfully done
+2024-08-09 12:03:30,985 [main] INFO Testcases.Registeration_Test - link clicking activity is completed
+2024-08-09 12:03:47,552 [main] INFO Testcases.Registeration_Test - Testcase is failed
+2024-08-09 12:03:47,554 [main] INFO Testcases.Registeration_Test - account created successfully
+2024-08-09 12:03:55,634 [main] INFO Testcases.LoginTest - login was succussfully done
+2024-08-09 12:42:11,789 [main] INFO Testcases.Registeration_Test - link clicking activity is completed
+2024-08-09 12:42:26,643 [main] INFO Testcases.Registeration_Test - Testcase is failed
+2024-08-09 12:42:26,644 [main] INFO Testcases.Registeration_Test - account created successfully
+2024-08-09 12:42:37,392 [main] INFO Testcases.LoginTest - login was succussfully done
+2024-08-12 10:24:34,334 [main] INFO Testcases.Registeration_Test - link clicking activity is completed
+2024-08-12 10:24:48,641 [main] INFO Testcases.Registeration_Test - Testcase is failed
+2024-08-12 10:24:48,641 [main] INFO Testcases.Registeration_Test - account created successfully
+2024-08-12 10:24:57,331 [main] INFO Testcases.LoginTest - userName added successfully
+2024-08-12 10:24:57,449 [main] INFO Testcases.LoginTest - password added successfully
+2024-08-12 10:25:01,168 [main] INFO Testcases.LoginTest - login was succussfully done
+2024-08-21 15:18:02,792 [main] INFO Testcases.LoginTest - userName added successfully
+2024-08-21 15:18:02,963 [main] INFO Testcases.LoginTest - password added successfully
+2024-08-21 15:18:05,604 [main] INFO Testcases.LoginTest - login was succussfully done
+2024-08-21 15:18:19,842 [main] INFO Testcases.Registeration_Test - link clicking activity is completed
+2024-08-21 15:18:35,868 [main] INFO Testcases.Registeration_Test - Testcase is failed
+2024-08-21 15:18:35,869 [main] INFO Testcases.Registeration_Test - account created successfully

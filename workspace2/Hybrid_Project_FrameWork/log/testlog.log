@@ -1,0 +1,26 @@
+2024-08-08 14:59:52,272 - Testcases.Registeration_Test -INFO - link clicking activity is completed
+2024-08-08 15:09:33,978 - Testcases.Registeration_Test -INFO - link clicking activity is completed
+2024-08-09 12:00:24,995 - Testcases.Registeration_Test -INFO - link clicking activity is completed
+2024-08-09 12:00:40,906 - Testcases.Registeration_Test -INFO - Testcase is failed
+2024-08-09 12:00:40,908 - Testcases.Registeration_Test -INFO - account created successfully
+2024-08-09 12:00:52,046 - Testcases.LoginTest -INFO - login was succussfully done
+2024-08-09 12:03:30,985 - Testcases.Registeration_Test -INFO - link clicking activity is completed
+2024-08-09 12:03:47,552 - Testcases.Registeration_Test -INFO - Testcase is failed
+2024-08-09 12:03:47,554 - Testcases.Registeration_Test -INFO - account created successfully
+2024-08-09 12:03:55,634 - Testcases.LoginTest -INFO - login was succussfully done
+2024-08-09 12:42:11,789 - Testcases.Registeration_Test -INFO - link clicking activity is completed
+2024-08-09 12:42:26,643 - Testcases.Registeration_Test -INFO - Testcase is failed
+2024-08-09 12:42:26,644 - Testcases.Registeration_Test -INFO - account created successfully
+2024-08-09 12:42:37,392 - Testcases.LoginTest -INFO - login was succussfully done
+2024-08-12 10:24:34,334 - Testcases.Registeration_Test -INFO - link clicking activity is completed
+2024-08-12 10:24:48,641 - Testcases.Registeration_Test -INFO - Testcase is failed
+2024-08-12 10:24:48,641 - Testcases.Registeration_Test -INFO - account created successfully
+2024-08-12 10:24:57,331 - Testcases.LoginTest -INFO - userName added successfully
+2024-08-12 10:24:57,449 - Testcases.LoginTest -INFO - password added successfully
+2024-08-12 10:25:01,168 - Testcases.LoginTest -INFO - login was succussfully done
+2024-08-21 15:18:02,792 - Testcases.LoginTest -INFO - userName added successfully
+2024-08-21 15:18:02,963 - Testcases.LoginTest -INFO - password added successfully
+2024-08-21 15:18:05,604 - Testcases.LoginTest -INFO - login was succussfully done
+2024-08-21 15:18:19,842 - Testcases.Registeration_Test -INFO - link clicking activity is completed
+2024-08-21 15:18:35,868 - Testcases.Registeration_Test -INFO - Testcase is failed
+2024-08-21 15:18:35,869 - Testcases.Registeration_Test -INFO - account created successfully
